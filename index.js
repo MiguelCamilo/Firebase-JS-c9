@@ -53,6 +53,6 @@ const deleteData = async (itemId) => {
 }   
 
 
-// await addDoc(food);
+await addDoc(food);
 await deleteData('bPUJmv5omELW4JWTnUIV');
 await getData();
